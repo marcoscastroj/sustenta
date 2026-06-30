@@ -3,10 +3,10 @@
 **Sustenta** é um jogo digital e individual focado na escuta ativa, acolhimento e desconstrução da sobrecarga mental feminina e das expectativas invisíveis de cuidado familiar. O projeto adapta a clássica mecânica de descarte de cartas (estilo Uno) para criar um espaço seguro de diálogo terapêutico entre uma jogadora real e três personas virtuais (Bots).
 
 Idealizadores do jogo:  
-Kauê Iago 
-Mailda Braz 
-Juliana Rodrigues 
-Melina
+Kauê Iago, 
+Mailda Braz,
+Juliana Rodrigues,
+Melina,
 Camila Moura
 
 ---
